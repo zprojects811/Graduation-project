@@ -1,0 +1,12 @@
+{
+	"interval": 1.0,
+	"seed": 0,
+	"dir": "configs/hangzhou_1x1_bc-tyc_18041608_1h/",
+	"roadnetFile": "roadnet.json", 
+	"flowFile": "flow.json", 
+	"rlTrafficLight": true,
+	"laneChange": true,
+	"saveReplay": true,
+    "roadnetLogFile": "roadnetLog.json",
+    "replayLogFile": "replayLog.txt"
+}

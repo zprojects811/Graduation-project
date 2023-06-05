@@ -1,0 +1,12 @@
+name,SOTL,A2C,PPO,DQN
+hangzhou_1x1_bc-tyc_18041607_1h,221,109,106,151
+hangzhou_1x1_bc-tyc_18041608_1h,335,113,118,153
+hangzhou_1x1_bc-tyc_18041610_1h,213,102,106,143
+hangzhou_1x1_kn-hz_18041607_1h,72,98,93,112
+hangzhou_1x1_kn-hz_18041608_1h,64,101,92,105
+hangzhou_1x1_qc-yn_18041607_1h,117,108,92,141
+hangzhou_1x1_qc-yn_18041608_1h,132,98,92,129
+hangzhou_1x1_sb-sx_18041607_1h,174,101,97,132
+hangzhou_1x1_sb-sx_18041608_1h,290,110,108,172
+hangzhou_1x1_tms-xy_18041607_1h,215,120,111,193
+hangzhou_1x1_tms-xy_18041608_1h,325,143,123,229
